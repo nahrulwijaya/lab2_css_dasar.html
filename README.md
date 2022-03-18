@@ -29,6 +29,6 @@ tambahkan dekrasi Inline CSS pada tag <p> seperti berikut
 
 Refresh kembali browser untuk melihat perubahannya
 
-![p](gambar/5.png.png)
+![p](gambar/6.png.png)
 
 
