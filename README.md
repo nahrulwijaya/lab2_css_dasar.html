@@ -6,3 +6,4 @@
 # Langkah-Langkah Praktekum<br>
 membuat text editor,saya menggunakan sublime text
 ![p](gambar/11.png.png)
+buka pada browser untuk melihat hasilnya
