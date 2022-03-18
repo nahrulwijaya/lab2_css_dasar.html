@@ -31,4 +31,30 @@ Refresh kembali browser untuk melihat perubahannya
 
 ![p](gambar/6.png.png)
 
+# 4.Membuat CSS Eksternal
+
+Buatlah file baru dengan nama style_eksternal.CSS seperti berikut
+
+![p](gambar/15.png)
+
+kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head>
+
+![p](gambar/16.png)
+
+Selanjutnya refresh kembali browser untuk melihat perubahannya.
+
+![p](gambar/8.png.PNG)
+
+
+# 5. Menambahkan CSS Selektor
+
+Selanjutnya menambahkan Css Selector menggunakan ID dan Class Selector.pada file style_eksternal.css,tambahkan kode berikut.
+
+![p](gambar/12.png)
+
+kemudian simpan kembali dan refresh browser untuk melihat perubahannya
+
+![p](gambar/13.png)
+
+
 
